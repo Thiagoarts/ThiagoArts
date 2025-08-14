@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Silva 👋
-
+- Tenho 24 anos e tenho diploma em ADS e técnico em ADS, busco melhorar meu desenvolvimento em Front-End e sempre busco evoluir mais em programação.
 - 🔭 Programador Junior
-- 🌱 Estudando PHP/ ReactJs/ NodeJs/ Python
+- 🌱 Estudando PHP - Simplifica/ ReactJs - Simplifica/ NodeJs Santander Open Academy/ Python - Dio
 
   
 <div>
